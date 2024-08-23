@@ -1,0 +1,3 @@
+C:/Users/pippo/Desktop/Uni info/Gestionale_in_C/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pippo/Desktop/Uni info/Gestionale_in_C/cmake-build-debug/CMakeFiles/Gestionale_in_C.dir
+C:/Users/pippo/Desktop/Uni info/Gestionale_in_C/cmake-build-debug/CMakeFiles/rebuild_cache.dir

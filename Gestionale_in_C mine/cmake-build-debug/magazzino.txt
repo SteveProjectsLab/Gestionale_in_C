@@ -1,0 +1,6 @@
+00-Resistenze
+01-Condensatori 
+02-Diodi
+03-Transistor
+04-Integrati
+05-Induttanze

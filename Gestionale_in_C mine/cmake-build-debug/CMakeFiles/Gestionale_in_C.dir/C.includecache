@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/pippo/Desktop/Uni info/Gestionale_in_C/funzioni_componenti.h
+
+C:/Users/pippo/Desktop/Uni info/Gestionale_in_C/funzioni_gestionale.h
+
+C:/Users/pippo/Desktop/Uni info/Gestionale_in_C/main.c
+stdio.h
+-
+string.h
+-
+funzioni_gestionale.h
+C:/Users/pippo/Desktop/Uni info/Gestionale_in_C/funzioni_gestionale.h
+funzioni_componenti.h
+C:/Users/pippo/Desktop/Uni info/Gestionale_in_C/funzioni_componenti.h
+menu.h
+C:/Users/pippo/Desktop/Uni info/Gestionale_in_C/menu.h
+
+C:/Users/pippo/Desktop/Uni info/Gestionale_in_C/menu.h
+
